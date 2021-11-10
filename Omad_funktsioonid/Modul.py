@@ -38,6 +38,6 @@ def is_year_leap(aasta: int):
         vastus=False
     return vastus
 
-
+def square(kv:float)
 
 

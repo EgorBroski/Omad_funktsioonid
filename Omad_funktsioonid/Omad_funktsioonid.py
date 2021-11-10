@@ -11,5 +11,8 @@ while True:
     elif v.upper()=="Y":
         rezult=is_year_leap(int(input("Sisesta aasta:")))
         print(rezult)
+    elif v.upper()=="S":
+        arv1=float(input("Arv 1:"))
+        arv2=float(input("Arv 2:"))
 
 
